@@ -1,0 +1,6 @@
+# Ignore system-specific files
+~/.local/share/
+~/.cache/
+
+# Ignore vim swap files
+*.swp

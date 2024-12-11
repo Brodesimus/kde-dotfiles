@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/brodesimus/.config/pomotroid/logs/.cfd3427d0720aa3eb1e5646210d9998d0d60cc47-audit.json",
+    "files": [
+        {
+            "date": 1733887395692,
+            "name": "/home/brodesimus/.config/pomotroid/logs/pomotroid-2024-12-10.log",
+            "hash": "e7d93a3cb164d76de24b922299ad129f"
+        }
+    ]
+}
